@@ -126,8 +126,8 @@ I'm a **Software Engineer** working across **full-stack web development** and **
 
 <!-- Fill in your own links/contact details below -->
 
-📧 **Email:** _add your email_
-💼 **LinkedIn:** _add your LinkedIn URL_
+📧 **Email:** abrarmuhammad868@gmail.com
+💼 **LinkedIn:** https://pk.linkedin.com/in/muhammad-abrar-145162203
 🌐 **Location:** Faisalabad, Punjab, Pakistan
 💻 **GitHub:** [github.com/devabrar404](https://github.com/devabrar404)
 
