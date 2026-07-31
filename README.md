@@ -117,10 +117,6 @@ I'm a **Software Engineer** working across **full-stack web development** and **
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devabrar404&show_icons=true&theme=default" alt="Abrar's GitHub stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devabrar404" alt="Abrar's GitHub streak" />
 </div>
 
