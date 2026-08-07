@@ -1,251 +1,103 @@
-# Hi there, I'm Muhammad Abrar 👋
-
-## Software Engineer | Full-Stack Developer | DevOps Engineer | Geospatial Systems
-
----
-
-## 🚀 About Me
-
-I'm a **Software Engineer** with over **6 years of experience** building scalable web applications, backend services, and production infrastructure. I specialize in **Full-Stack Development**, **DevOps**, and **Geospatial Systems**, helping businesses build reliable, high-performance solutions.
-
-Based in **Faisalabad, Pakistan**, I work across multiple client projects, designing everything from Laravel and Node.js applications to cloud infrastructure and self-hosted routing systems.
-
-- 🔭 Currently working on multiple client applications and cloud infrastructure projects
-- 🗺️ Building geospatial applications using **Valhalla**, **OpenStreetMap**, and routing APIs
-- ⚙️ Managing production infrastructure on **AWS EC2**, Ubuntu, and Nginx
-- 💻 Experienced with Windows Server administration (Contabo VPS, RDP & VNC)
-- 🚀 Passionate about backend architecture, automation, DevOps, and performance optimization
-- 🐛 Enjoy solving complex production issues and optimizing large-scale systems
-- 💬 Ask me about Laravel, React, Vue, Next.js, NestJS, Node.js, AWS, Docker, Linux, DevOps, and Geospatial Systems
-
----
-
-# 🛠️ Tech Stack & Expertise
-
-## 💻 Backend & Frameworks
-
-- Laravel
-- PHP
-- Node.js
-- NestJS
-- Express.js
-- Python
-- FastAPI
-- REST APIs
-- WebSockets
-- Socket.IO
-- MySQL
-- SQLite
-- PostgreSQL
-- Redis
-- Authentication & Authorization
-- API Integration
-- Payment Gateway Integration
-
----
-
-## 🎨 Frontend
-
-- React.js
-- Next.js
-- Vue.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
-- jQuery
-- AJAX
-- Responsive Web Design
-- REST API Integration
-
----
-
-## ☁️ Cloud & Infrastructure
-
-- AWS EC2
-- AWS RDS
-- AWS IAM
-- Ubuntu Server
-- Linux Administration
-- Nginx
-- Apache
-- PM2
-- Supervisor
-- Docker
-- SSL/TLS
-- Certbot
-- Cloudflare
-- GitHub Actions
-- CI/CD Pipelines
-- Shell Scripting
-- Server Security
-- DNS Management
-
----
-
-## 🗺️ Geospatial Technologies
-
-- Valhalla Routing Engine
-- OpenStreetMap (OSM)
-- Map Matching
-- Routing APIs
-- Geofabrik Data
-- GPS Processing
-- Spatial Data Processing
-- Route Optimization
-
----
-
-## 🧰 Tools & Technologies
+Hi there, I'm Abrar 👋
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Swagger
-- Docker
-- Composer
-- npm
-- Yarn
-- Playwright
-- Selenium
-- Figma
-- Jira
-- Trello
-- Linux CLI
+Software Engineer | Full-Stack Developer | DevOps & Geospatial Systems
 
----
 
-# 💼 Areas of Expertise
 
-## 🚀 Backend Development
+🚀 About Me
 
-- Laravel Application Development
-- RESTful API Development
-- Authentication & Authorization
-- Third-Party API Integrations
-- Payment Gateway Integration
-- Queue Systems
-- Background Jobs
-- WebSocket Applications
-- Microservices
-- Database Design & Optimization
+I'm a Software Engineer working across full-stack web development and DevOps, based in Faisalabad, Pakistan. I build and maintain production systems for multiple client projects at once — from Laravel/Node.js applications to self-hosted geospatial routing infrastructure.
 
----
+🔭 Currently working on: Client apps and server infrastructure across several concurrent projects
 
-## 🎨 Frontend Development
+🗺️ Regular work with: Valhalla routing engine, OpenStreetMap data, geospatial APIs
 
-- React.js Applications
-- Next.js Applications
-- Vue.js Applications
-- Responsive UI Development
-- Bootstrap & Tailwind CSS
-- Dynamic Dashboards
-- Single Page Applications (SPA)
-- API Integration
+⚙️ Comfortable operating in a DevOps capacity on AWS EC2
 
----
+💻 Also manage Windows Server environments (Contabo VPS, RDP/VNC)
 
-## ☁️ DevOps & Infrastructure
+💬 Ask me about: Laravel, NestJS, Next.js, Node.js, server management, routing/map-matching systems
 
-- AWS EC2 Deployment
-- Ubuntu Server Administration
-- Docker Deployment
-- Nginx Configuration
-- PHP-FPM
-- PM2
-- SSL/TLS Management
-- Cloudflare Configuration
-- CI/CD Pipelines
-- Performance Optimization
-- Server Monitoring
-- Backup & Recovery
+🐛 I enjoy diagnosing production issues — crashed services, misconfigured proxies, cert/renewal risks
 
----
+🛠️ Tech Stack & Expertise
 
-## 🗺️ Geospatial Systems
+Backend & Frameworks
 
-- Valhalla Routing Engine
-- OpenStreetMap Integration
-- Route Matching
-- Navigation Systems
-- Custom Map Data Processing
-- Routing API Development
-- Production Routing Infrastructure
 
----
 
-# 🎯 Recent Projects
+Frontend
 
-### 🗺️ Self-Hosted Routing Infrastructure
 
-Built and deployed a production-ready **Valhalla Routing Engine** from source using country-specific OpenStreetMap extracts for high-performance map matching and routing.
 
-### 🔧 Production Infrastructure
+Cloud & Infrastructure
 
-Diagnosed and resolved routing service failures, reverse proxy issues, SSL problems, and server outages across multiple production environments.
 
-### 📊 Stock Monitoring Dashboard
 
-Developed a Node.js-based dashboard for automated stock monitoring featuring per-account isolation, scheduled synchronization, and Excel reporting.
+Geospatial
 
-### 🔐 Mobile Infrastructure & Security
 
-Investigated SSL certificate pinning, analyzed renewal risks, and managed secure production deployments on AWS EC2.
 
-### 🌐 Cloud Deployment
+Tools
 
-Deployed and maintained production websites using **AWS EC2**, **Nginx**, **Cloudflare**, and **Let's Encrypt**, ensuring high availability and security.
 
-### 🛒 Automation Platform
 
-Built an Amazon-to-eBay automation platform using **Playwright**, **SQLite**, **Express.js**, and eBay APIs for automated product synchronization.
+💼 Areas of Focus
 
----
+Backend & APIs
 
-# 📈 GitHub Stats
+Laravel application development
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devabrar404&show_icons=true&theme=tokyonight" />
-</p>
+NestJS & Node.js/Express services
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devabrar404&theme=tokyonight" />
-</p>
+REST API design and integration
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabrar404&layout=compact&theme=tokyonight" />
-</p>
+Server-side deployment workflows
 
----
+DevOps & Servers
 
-# 🤝 Let's Connect
+Ubuntu server management (PM2, Supervisor, nginx, PHP-FPM)
 
-📧 **Email:** **abrarmuhammad868@gmail.com**
+SSL/TLS via Certbot, renewal risk tracking
 
-💼 **LinkedIn:** https://pk.linkedin.com/in/muhammad-abrar-dev
+AWS EC2 operations
 
-💻 **GitHub:** https://github.com/devabrar404
+Windows Server administration (Contabo VPS)
 
-🌍 **Location:** Faisalabad, Punjab, Pakistan
+Geospatial Systems
 
----
+Building Valhalla routing/map-matching from source
 
-## 💡 What I Enjoy Building
+Custom OSM tile extraction (Geofabrik) for regional routing
 
-- Full-Stack Web Applications
-- Enterprise Backend Systems
-- DevOps Infrastructure
-- Cloud Deployments
-- Automation Platforms
-- AI-Powered Applications
-- Geospatial Solutions
-- High-Performance APIs
-- Real-Time Applications
-- Routing & Navigation Systems
+Debugging routing service outages in production
 
----
+Frontend & Deployment
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories, contribute to open-source projects, or connect if you're interested in collaborating on innovative software solutions.**
+Next.js applications
+
+Static site deployment (EC2 + nginx + Certbot behind Cloudflare)
+
+DNS and domain configuration (Vercel, GoDaddy)
+
+🎯 Some Things I've Recently Worked On
+
+🗺️ Built a self-hosted Valhalla routing engine from source, with tiles scoped to a specific country extract for map-matching
+
+🔧 Debugged and resolved a crashed routing-service dependency causing production 502s
+
+📊 Built a Node.js dashboard for automated stock monitoring with per-account isolation and Excel reporting
+
+🔐 Investigated mobile SSL certificate pinning and flagged renewal risk for a client's app on AWS EC2
+
+🌐 Deployed and hardened production sites (EC2 + nginx + Certbot behind Cloudflare)
+
+🛒 Built a local Amazon-to-eBay automation tool (Playwright scraping, SQLite, eBay Trading API, Express dashboard)
+
+📊 GitHub Stats
+
+📫 Let's Connect
+
+📧 Email: abrarmuhammad868@gmail.com💼 LinkedIn: https://pk.linkedin.com/in/muhammad-abrar-145162203🌐 Location: Faisalabad, Punjab, Pakistan💻 GitHub: github.com/devabrar404
+
+⭐ Feel free to explore my repositories and connect if you'd like to work together.
