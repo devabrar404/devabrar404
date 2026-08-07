@@ -14,7 +14,7 @@ I'm a **Software Engineer** working across **full-stack web development** and **
 - 🗺️ Regular work with: **Valhalla routing engine, OpenStreetMap data, geospatial APIs**
 - ⚙️ Comfortable operating in a **DevOps capacity on AWS EC2**
 - 💻 Also manage **Windows Server environments** (Contabo VPS, RDP/VNC)
-- 💬 Ask me about: **Laravel, NestJS, Next.js, Node.js, server management, routing/map-matching systems**
+- 💬 Ask me about: **Laravel, NestJS, Next.js, React, Vue, Node.js, server management, routing/map-matching systems**
 - 🐛 I enjoy diagnosing production issues — crashed services, misconfigured proxies, cert/renewal risks
 
 ---
@@ -31,7 +31,11 @@ I'm a **Software Engineer** working across **full-stack web development** and **
 ### Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Cloud & Infrastructure
 
@@ -93,7 +97,8 @@ I'm a **Software Engineer** working across **full-stack web development** and **
 
 ### Frontend & Deployment
 
-- Next.js applications
+- Next.js, React & Vue.js applications
+- UI styling with Bootstrap and Tailwind CSS
 - Static site deployment (EC2 + nginx + Certbot behind Cloudflare)
 - DNS and domain configuration (Vercel, GoDaddy)
 
